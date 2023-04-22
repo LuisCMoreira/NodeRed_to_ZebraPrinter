@@ -6,10 +6,15 @@ This was made with Node-Red but the same basic principles can be applied to othe
 
 Just inport the flow to Node-Red and setup the printer IP.
 
+
 ![the flow](images/flow.png)
+
 
 The stikers can be generated in several web tools available online.e.g.:
 
 ![sample sticker](images/samplesticker.png)
+
+
+
 
 ### Note: This was tested with a Zebra ZT411.
